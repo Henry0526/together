@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Together</string>
     <string name="action_settings">Settings</string>
+    <string name="Personal_imformations">個人資料</string>
+    <string name="Chat_room">你的聊天室</string>
+    <string name="View_the_Activity">查看活動</string>
 </resources>
